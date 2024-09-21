@@ -133,3 +133,45 @@ Shit.Main:AddButton({
         chat:SendAsync("Can I k>i>s>s> your a>r>m>p>i>t>?")
     end
 })
+Shit.Main:AddButton({
+    Title = "oh, santa will come and have cookies and mommies milk",
+    Description = "",
+    Callback = function()
+        chat:SendAsync("Oh, Santa will come and have cookies and m>o>m>m>i>e>s> m>i>l>k>!")
+    end
+})
+Shit.Main:AddButton({
+    Title = "It's Very Calm To Take Your Penis And Then Pee In A Container And Then Dump It All Over Your Face",
+    Description = "",
+    Callback = function()
+        chat:SendAsync("It's very calm to take your p>e>n>i>s> and then p>e>e> in a container and then dump it all over your face.")
+    end
+})
+Shit.Main:AddButton({
+    Title = "I'm Gonna Fuck You When You're Sleeping",
+    Description = "",
+    Callback = function()
+        chat:SendAsync("I'm gonna f>u>c>k> you when you're sleeping.")
+    end
+})
+Shit.Main:AddButton({
+    Title = "Rub Your Dick Across My Face Please",
+    Description = "",
+    Callback = function()
+        chat:SendAsync("Ru>b your<< d>i>c>k> <<across> my f>>ace plea<<>se!")
+    end
+})
+Shit.Main:AddButton({
+    Title = "I'm Gonna Fuck Your Banana So Fucking Hard It's Gonna Hurt",
+    Description = "",
+    Callback = function()
+        chat:SendAsync("I'm gonna f>u>c>k> your b>a>n>a>n>a> so f>u>c>k>i>n>g> hard it's gonna hurt.")
+    end
+})
+Shit.Main:AddButton({
+    Title = "Very Huge Boobs",
+    Description = "",
+    Callback = function()
+        chat:SendAsync("Very huge b>o>o>b>s>!")
+    end
+})
